@@ -1,0 +1,9 @@
+[submodule "deps/phc-winner-argon2"]
+	path = deps/phc-winner-argon2
+	url = https://github.com/P-H-C/phc-winner-argon2.git
+[submodule "deps/parson"]
+	path = deps/parson
+	url = https://github.com/kgabis/parson.git
+[submodule "deps/libmicrohttpd"]
+	path = deps/libmicrohttpd
+	url = https://git.gnunet.org/libmicrohttpd.git
